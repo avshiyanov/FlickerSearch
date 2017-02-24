@@ -1,7 +1,7 @@
 
 #Introduction
 
-This application fetches photos from flickr using flickr apis.
+This application fetches photos from flicker using flicker apis.
 
 ## Installation
 ```bash
